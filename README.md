@@ -5,14 +5,14 @@ Built using **Swift** and **UIKit**, this app focuses on clean design, smooth re
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ **Record Voice Notes** – Capture audio quickly using the built-in recorder.  
-✅ **Playback & Manage** – Listen to saved recordings anytime.  
-✅ **Mark Favorites** – Highlight your important voice notes for easy access.  
-✅ **Delete Notes** – Remove unwanted recordings effortlessly.  
-✅ **Clean & Intuitive UI** – Built with UIKit for a seamless iOS experience.
-✅ **Dark mode support** – Automatically adapts to system appearance (Light/Dark).
+1.) **Record Voice Notes** – Capture audio quickly using the built-in recorder.  
+2.) **Playback & Manage** – Listen to saved recordings anytime.  
+3.) **Mark Favorites** – Highlight your important voice notes for easy access.  
+4.) **Delete Notes** – Remove unwanted recordings effortlessly.  
+5.) **Clean & Intuitive UI** – Built with UIKit for a seamless iOS experience.
+6.) **Dark mode support** – Automatically adapts to system appearance (Light/Dark).
 
 ---
 
