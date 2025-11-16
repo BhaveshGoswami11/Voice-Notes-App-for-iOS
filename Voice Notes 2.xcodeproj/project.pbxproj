@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BE9212A72D99FBDC0024A48A /* Voice Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Voice Notes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEE0CB0A2D9DB1D3000F3F54 /* Voice Notes 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Voice Notes 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		BE9212B92D99FBDD0024A48A /* Exceptions for "Voice Notes" folder in "Voice Notes" target */ = {
+		BEE0CB1C2D9DB1D4000F3F54 /* Exceptions for "Voice Notes 2" folder in "Voice Notes 2" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = BE9212A62D99FBDC0024A48A /* Voice Notes */;
+			target = BEE0CB092D9DB1D3000F3F54 /* Voice Notes 2 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		BE9212A92D99FBDC0024A48A /* Voice Notes */ = {
+		BEE0CB0C2D9DB1D3000F3F54 /* Voice Notes 2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				BE9212B92D99FBDD0024A48A /* Exceptions for "Voice Notes" folder in "Voice Notes" target */,
+				BEE0CB1C2D9DB1D4000F3F54 /* Exceptions for "Voice Notes 2" folder in "Voice Notes 2" target */,
 			);
-			path = "Voice Notes";
+			path = "Voice Notes 2";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BE9212A42D99FBDC0024A48A /* Frameworks */ = {
+		BEE0CB072D9DB1D3000F3F54 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BE92129E2D99FBDC0024A48A = {
+		BEE0CB012D9DB1D3000F3F54 = {
 			isa = PBXGroup;
 			children = (
-				BE9212A92D99FBDC0024A48A /* Voice Notes */,
-				BE9212A82D99FBDC0024A48A /* Products */,
+				BEE0CB0C2D9DB1D3000F3F54 /* Voice Notes 2 */,
+				BEE0CB0B2D9DB1D3000F3F54 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BE9212A82D99FBDC0024A48A /* Products */ = {
+		BEE0CB0B2D9DB1D3000F3F54 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BE9212A72D99FBDC0024A48A /* Voice Notes.app */,
+				BEE0CB0A2D9DB1D3000F3F54 /* Voice Notes 2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BE9212A62D99FBDC0024A48A /* Voice Notes */ = {
+		BEE0CB092D9DB1D3000F3F54 /* Voice Notes 2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE9212BA2D99FBDD0024A48A /* Build configuration list for PBXNativeTarget "Voice Notes" */;
+			buildConfigurationList = BEE0CB1D2D9DB1D4000F3F54 /* Build configuration list for PBXNativeTarget "Voice Notes 2" */;
 			buildPhases = (
-				BE9212A32D99FBDC0024A48A /* Sources */,
-				BE9212A42D99FBDC0024A48A /* Frameworks */,
-				BE9212A52D99FBDC0024A48A /* Resources */,
+				BEE0CB062D9DB1D3000F3F54 /* Sources */,
+				BEE0CB072D9DB1D3000F3F54 /* Frameworks */,
+				BEE0CB082D9DB1D3000F3F54 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BE9212A92D99FBDC0024A48A /* Voice Notes */,
+				BEE0CB0C2D9DB1D3000F3F54 /* Voice Notes 2 */,
 			);
-			name = "Voice Notes";
+			name = "Voice Notes 2";
 			packageProductDependencies = (
 			);
-			productName = "Voice Notes";
-			productReference = BE9212A72D99FBDC0024A48A /* Voice Notes.app */;
+			productName = "Voice Notes 2";
+			productReference = BEE0CB0A2D9DB1D3000F3F54 /* Voice Notes 2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BE92129F2D99FBDC0024A48A /* Project object */ = {
+		BEE0CB022D9DB1D3000F3F54 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1620;
-				LastUpgradeCheck = 1620;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					BE9212A62D99FBDC0024A48A = {
-						CreatedOnToolsVersion = 16.2;
+					BEE0CB092D9DB1D3000F3F54 = {
+						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = BE9212A22D99FBDC0024A48A /* Build configuration list for PBXProject "Voice Notes" */;
+			buildConfigurationList = BEE0CB052D9DB1D3000F3F54 /* Build configuration list for PBXProject "Voice Notes 2" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = BE92129E2D99FBDC0024A48A;
+			mainGroup = BEE0CB012D9DB1D3000F3F54;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = BE9212A82D99FBDC0024A48A /* Products */;
+			productRefGroup = BEE0CB0B2D9DB1D3000F3F54 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BE9212A62D99FBDC0024A48A /* Voice Notes */,
+				BEE0CB092D9DB1D3000F3F54 /* Voice Notes 2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BE9212A52D99FBDC0024A48A /* Resources */ = {
+		BEE0CB082D9DB1D3000F3F54 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BE9212A32D99FBDC0024A48A /* Sources */ = {
+		BEE0CB062D9DB1D3000F3F54 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		BE9212BB2D99FBDD0024A48A /* Debug */ = {
+		BEE0CB1E2D9DB1D4000F3F54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -146,21 +146,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Voice Notes/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Voice Notes";
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Voice Notes needs access to your microphone to record audio.";
+				INFOPLIST_FILE = "Voice Notes 2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "nwmsu.Voice-Notes";
+				PRODUCT_BUNDLE_IDENTIFIER = "nwmsu.Voice-Notes-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -168,7 +166,7 @@
 			};
 			name = Debug;
 		};
-		BE9212BC2D99FBDD0024A48A /* Release */ = {
+		BEE0CB1F2D9DB1D4000F3F54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -176,21 +174,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Voice Notes/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Voice Notes";
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Voice Notes needs access to your microphone to record audio.";
+				INFOPLIST_FILE = "Voice Notes 2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "nwmsu.Voice-Notes";
+				PRODUCT_BUNDLE_IDENTIFIER = "nwmsu.Voice-Notes-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -198,7 +194,7 @@
 			};
 			name = Release;
 		};
-		BE9212BD2D99FBDD0024A48A /* Debug */ = {
+		BEE0CB202D9DB1D4000F3F54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -250,7 +246,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -261,7 +257,7 @@
 			};
 			name = Debug;
 		};
-		BE9212BE2D99FBDD0024A48A /* Release */ = {
+		BEE0CB212D9DB1D4000F3F54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -307,7 +303,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -320,25 +316,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BE9212A22D99FBDC0024A48A /* Build configuration list for PBXProject "Voice Notes" */ = {
+		BEE0CB052D9DB1D3000F3F54 /* Build configuration list for PBXProject "Voice Notes 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE9212BD2D99FBDD0024A48A /* Debug */,
-				BE9212BE2D99FBDD0024A48A /* Release */,
+				BEE0CB202D9DB1D4000F3F54 /* Debug */,
+				BEE0CB212D9DB1D4000F3F54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE9212BA2D99FBDD0024A48A /* Build configuration list for PBXNativeTarget "Voice Notes" */ = {
+		BEE0CB1D2D9DB1D4000F3F54 /* Build configuration list for PBXNativeTarget "Voice Notes 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE9212BB2D99FBDD0024A48A /* Debug */,
-				BE9212BC2D99FBDD0024A48A /* Release */,
+				BEE0CB1E2D9DB1D4000F3F54 /* Debug */,
+				BEE0CB1F2D9DB1D4000F3F54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BE92129F2D99FBDC0024A48A /* Project object */;
+	rootObject = BEE0CB022D9DB1D3000F3F54 /* Project object */;
 }
