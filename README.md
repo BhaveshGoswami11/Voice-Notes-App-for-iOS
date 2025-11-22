@@ -18,8 +18,6 @@ Built using **Swift** and **UIKit**, this app focuses on clean design, smooth re
 
 # 📸 App Screenshots
 
-# 📸 App Screenshots
-
 ## 🏠 Home Screen
 | Home |
 |------|
