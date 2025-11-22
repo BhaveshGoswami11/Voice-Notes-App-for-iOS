@@ -16,6 +16,35 @@ Built using **Swift** and **UIKit**, this app focuses on clean design, smooth re
 
 ---
 
+# 📸 App Screenshots
+
+## 🌞 Light & Dark Mode
+| Light Mode | Dark Mode |
+|-----------|-----------|
+| ![Light Mode](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Light%20Mode.png?raw=true) | ![Dark Mode](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Dark%20Mode.png?raw=true) |
+
+---
+
+## 🎙️ Recording & Pause Screens
+| Recording Screen | Pause Screen |
+|------------------|--------------|
+| ![Recording Screen](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Recording%20Screen.png?raw=true) | ![Pause Screen](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Pause%20Screen.png?raw=true) |
+
+---
+
+## 📁 All Recordings & Favorites
+| All Recordings | Favorite Screen |
+|----------------|-----------------|
+| ![All Recording](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/All%20Recording.png?raw=true) | ![Favorite Screen](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Favorite%20Screen.png?raw=true) |
+
+---
+
+## ⚙️ Settings & Home Screens
+| Settings Screen | Home Screen |
+|-----------------|-------------|
+| ![Setting Screen](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Setting%20Screen.png?raw=true) | ![Home Screen](https://github.com/BhaveshGoswami11/Voice-Notes-App-for-iOS/blob/main/Sneak%20Peek%20Of%20App/Home.png?raw=true) |
+
+---
 ## 🧩 App Structure
 
 📁 VoiceNoteApp/
